@@ -1,4 +1,4 @@
 # Datavisualisation_assignment
-# BUID WITH 
+# BUILD WITH 
 1. Power BI Desktop
 2. Excel
